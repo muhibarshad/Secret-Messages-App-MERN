@@ -1,0 +1,13 @@
+{
+  "name": "secret-messages-app",
+  "version": "1.0.0",
+  "description": "\"Secret-Messages-Full-Stack-Application\"",
+  "main": "index.js",
+  "scripts": {
+    "build":"cd Backend && npm install && cd../Frontend && npm install && npm run build",
+    "start": "node Backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@muhib7353",
+  "license": "ISC"
+}

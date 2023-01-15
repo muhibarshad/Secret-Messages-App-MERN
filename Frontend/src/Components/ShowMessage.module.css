@@ -1,0 +1,48 @@
+.card {
+  width: 300px;
+  padding: 20px;
+  margin: 20px auto;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 10px;
+}
+
+.card-header {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card-content {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+}
+.error-message {
+  background-color: #f44336;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.rolling-spinner {
+  width: 30px;
+  height: 30px;
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #007bff;
+  border-radius: 50%;
+  animation: roll 1s ease-in-out infinite;
+}
+
+@keyframes roll {
+  to {
+    transform: rotate(360deg);
+  }
+}
