@@ -113,4 +113,4 @@ You can also follow my GitHub profile to stay updated on my latest projects:
 
 Copyright © 2022 [Muhib Arshad](https://github.com/muhib7353).
 
-This project is [MIT](https://github.com/muhib7353/Secret-Messages-App/blob/main/License.md) licensed.
+This project is [MIT](/MERN/Secret-Messages-App/License.md) licensed.
