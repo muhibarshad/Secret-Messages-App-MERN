@@ -1,6 +1,7 @@
-<video  poster="Screenshot from 2023-01-16 22-54-46.png" autoplay loop muted > 
-  <source src="vedio.webm" type="video/webm">
-</video>
+<div align="center">
+<img src="vedio.gif" alt="vedio gif">
+</div>
+
 
 <h1 align="center" style="font-size: 80px;" > Secret-Messages-App__(MERN-STACK)<h1>
 
